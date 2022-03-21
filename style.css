@@ -1,0 +1,13 @@
+
+.base{
+  display: flex;
+  background-color: #e0ffff ;
+}
+
+.left{
+  width: 30%;
+}
+
+.right{
+  width: 70%;
+}
